@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4eae0ef6.js",
+    "static/media/poca.png": "/static/media/poca.01eb9e7976ca8c17b436.png",
+    "static/media/angelina.png": "/static/media/angelina.4db3623d78271c15ad8d.png",
+    "static/media/skadi.png": "/static/media/skadi.bac3c480e93311952ff4.png",
+    "static/media/platinum.png": "/static/media/platinum.77c0cce77040a7c2a7a8.png",
+    "static/media/shining.png": "/static/media/shining.6df99dd4ffec3b36fa61.png",
+    "static/media/blaze.png": "/static/media/blaze.9f9fc712336ddcdc538c.png",
+    "static/media/eyjafjalla.png": "/static/media/eyjafjalla.28983ce12efe647f37e0.png",
+    "static/media/bagpipe.png": "/static/media/bagpipe.2ebcb1ea2478d94077b9.png",
+    "static/media/nearl.png": "/static/media/nearl.c5ce564f875c7578fa5f.png",
+    "static/media/chen.png": "/static/media/chen.2a704366e9d8e0c6aad8.png",
+    "static/media/siege.png": "/static/media/siege.8f4c05abae1473cd9ffb.png",
+    "static/media/schwarz.png": "/static/media/schwarz.f766b64e0e54da6ce0cb.png",
+    "static/media/background.jpg": "/static/media/background.a403322773341d83cb1a.jpg",
+    "static/media/logo_rhodes.png": "/static/media/logo_rhodes.8b255baaadb327e932f5.png",
+    "index.html": "/index.html",
+    "main.4eae0ef6.js.map": "/static/js/main.4eae0ef6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4eae0ef6.js"
+  ]
+}
